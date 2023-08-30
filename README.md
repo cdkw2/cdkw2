@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is cdkw2 and I'm a student</h2>
+<h2 align="left">Hello 👋! My name is cdkw2 and I'm a student</h2>
 
 ###
 
@@ -35,7 +35,7 @@
 
 ## 🎶 Vibing to
 <a href="https://open.spotify.com/track/4nmY3fEalIA4n5Ib43yCAx?si=9cc9bc6c273e4f96" target="_blank">
-  <img src="https://spotify-readme-n30k31uw0-42mockingjay.vercel.app/api?theme=dark&rainbow=true" alt="Current Spotify Song">
+  <img src="https://www.hellocatfood.com/wp-content/uploads/2020/02/blender_wave_loop.gif" alt="Current Spotify Song">
 </a>
 
 ## 📈 Stats
