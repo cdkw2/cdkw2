@@ -46,9 +46,7 @@
 ###
 
 <br clear="both">
-```
 <img src="https://i.imgur.com/bR1kWTc.png"/>
-###
 
 ## 🛠 Architecture
 ### ARM64 (main)
