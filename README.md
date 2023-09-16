@@ -47,7 +47,25 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/cdkw2/cdkw2/output/snake.svg" alt="Snake animation" />
+/*
+ *                THE STRONGEST PUBLIC LICENSE
+ *                  Draft 17, September, 2023
+ *
+ * Everyone is permitted to copy and distribute verbatim or modified
+ * copies of my programs, and changing it is allowed as long
+ * as the name is changed.
+ *
+ *                  THE STRONGEST PUBLIC LICENSE
+ *   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+ *
+ *  ⑨. This license document permits you to DO WHATEVER YOU WANT WITH MY CODE
+ *      as long as you say the magical words "HIPPITE HOPPITY YOUR
+ *      CODE IS NOW MY PROPERTY."
+ *
+ * These programs are distributed in the hope that it will be THE BEST,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * USEFULNESS or FITNESS FOR A PARTICULAR PURPOSE.
+ */
 
 ###
 
